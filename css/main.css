@@ -65,6 +65,7 @@ nav .nav-logo-container {
 nav .nav-logo-container img {
     width: 220px;
     margin-top: 10px;
+    filter: hue-rotate(195deg);
 }
 
 nav .profile-link {
@@ -161,7 +162,7 @@ nav .profile-link a {
 }
 
 .blogs-button {
-    border: 1px solid #47cfac;
+    border: 1px solid #df2053;
     padding: 10px 15px;
     font-size: 12px;
 }
@@ -174,7 +175,7 @@ nav .profile-link a {
 }
 
 .blogs-posts-container .post-container p {
-    margin-bottom: 35px;    
+    margin-bottom: 35px;
 }
 
 .blogs-posts-container .post-container img {
@@ -277,34 +278,3 @@ footer p {
 .project-container {
     padding: 0 5px;
 }
-
-/* main {
-    background-image: url('../assets/Imagenes/alexandru-acea-XEB8y0nRRP4-unsplash-2.png');
-    height: 520px;
-    background-size: cover;
-    background-position: center;
-    display: grid;
-    grid-template-rows: 1fr 1fr;
-}
-
-main .title h1 {
-    font-size: 50px;
-    color: white;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-main .button {
-    font-size: 18px;
-    color: white;
-    background: #df2053;
-    border: none;
-    text-decoration: none;
-    cursor: pointer;
-    padding: 15px;
-    display: flex;
-    justify-content: center;
-
-} */
