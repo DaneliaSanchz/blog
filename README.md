@@ -1,8 +1,9 @@
-# Project Blog
+# 🗒 Project Blog
 
+A simple blog about technology news.
 This project was created during the Maquetacion en CSS course. 
 
-# Screens
+# 💻 Screens
 
 ## Home
 
@@ -16,10 +17,14 @@ This project was created during the Maquetacion en CSS course.
 
 ![Blog Screen Ipad](https://github.com/DaneliaSanchz/blog/blob/master/assets/ipad.png)
 
-# License
+# 📜 License
 
 This project is licensed under the [MIT License](https://github.com/DaneliaSanchz/blog/blob/master/LICENSE)
 
-# Live Demo
+# 🖥 Live Demo
 
 https://daneliasanchz.github.io/blog/
+
+# 🤝 How to contribute
+
+Feel free to contribute to this project. Any feedback is welcome.
